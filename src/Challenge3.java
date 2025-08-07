@@ -14,7 +14,7 @@ public class Challenge3 {
         List<Long> fibonacci = new ArrayList<>();
         int count = 0;
         while (fibonacci.size() < 50){
-            if(!fibonacci.isEmpty() && fibonacci.size() > 2){
+            if(!fibonacci.isEmpty() && fibonacci.size() >= 2){
                 fibonacci.add(fibonacci.get(count-2) + fibonacci.get(count-1));
             }else{
                 fibonacci.add((long) count);
