@@ -7,16 +7,15 @@
  */
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Challenge3 {
     public static void main(String[] args) {
-        List<Long> fibonacci = new ArrayList<>();
+        ArrayList<Long> fibonacci = new ArrayList<>();
         int count = 0;
-        while (fibonacci.size() < 50){
-            if(!fibonacci.isEmpty() && fibonacci.size() >= 2){
-                fibonacci.add(fibonacci.get(count-2) + fibonacci.get(count-1));
-            }else{
+        while (fibonacci.size() < 50) {
+            if (!fibonacci.isEmpty() && fibonacci.size() >= 2) {
+                fibonacci.add(fibonacci.get(count - 2) + fibonacci.get(count - 1));
+            } else {
                 fibonacci.add((long) count);
             }
             count++;
@@ -24,7 +23,7 @@ public class Challenge3 {
         System.out.println("\nPrimeros 50 números de la sucesión de Fibonacci:\n");
         System.out.println(fibonacci);
         System.out.println("\nLista de elementos:\n");
-        for(long number : fibonacci){
+        for (long number : fibonacci) {
             System.out.println(number);
         }
     }
