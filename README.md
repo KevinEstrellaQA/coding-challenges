@@ -25,6 +25,9 @@ Detecta si un número dado es primo y, opcionalmente, genera una lista de númer
 ### [5. Área de un polígono](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge5.java)
 Crear una única función que sea capaz de generar el área de tres posibles polígonos (triángulo, cuadrado y rectángulo).
 
+### [7. Invirtiendo cadenas](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge7.java)
+Crear una función que sea capaz de invertir una cadena sin utilizar funciones propias de Java.
+
 ---
 
 ## 📌 Fuente de ejercicios:
