@@ -25,6 +25,11 @@ Detecta si un número dado es primo y, opcionalmente, genera una lista de númer
 ### [5. Área de un polígono](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge5.java)
 Crear una única función que sea capaz de generar el área de tres posibles polígonos (triángulo, cuadrado y rectángulo).
 
+### [6. Pizza Split](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge6.java)
+Crear un programa que reciba dos enteros (número de personas y número de rebanadas por pizza) y calcular el número mínimo
+de pizzas que se requieren para que todas las personas reciban la misma cantidad de rebanadas sin dejar rebanadas 
+sobrantes. Por ejemplo: Personas: 12, Rebanadas: 8; Resultado esperado: 3.
+
 ### [7. Invirtiendo cadenas](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge7.java)
 Crear una función que sea capaz de invertir una cadena sin utilizar funciones propias de Java.
 
