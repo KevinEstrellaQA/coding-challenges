@@ -17,7 +17,7 @@ Imprime los números del 1 al 100, pero:
 Verifica si dos cadenas de texto son anagramas (tienen las mismas letras en diferente orden).
 
 ### [3. Sucesión de Fibonacci](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge3.java)
-Genera los primeros N números de la sucesión de Fibonacci de manera iterativa (no recursiva).
+Genera los primeros N números de la sucesión de Fibonacci de manera iterativa.
 
 ### [4. Números primos](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge4.java)
 Detecta si un número dado es primo y, opcionalmente, genera una lista de números primos hasta un cierto límite.
@@ -32,6 +32,9 @@ sobrantes. Por ejemplo: Personas: 12, Rebanadas: 8; Resultado esperado: 3.
 
 ### [7. Invirtiendo cadenas](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge7.java)
 Crear una función que sea capaz de invertir una cadena sin utilizar funciones propias de Java.
+
+### [8. Contando palabras](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge8.java)
+Crea un programa que cuente cuantas veces se repite cada palabra y que muestre el recuento final de todas ellas.
 
 ---
 
