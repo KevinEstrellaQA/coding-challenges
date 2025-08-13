@@ -29,7 +29,7 @@ public class Challenge8 {
                 }
             }
             if(count !=1 ){
-                System.out.println("Palabra: " + words[i] + "; está repetida: " + count + " veces.");
+                System.out.println("Palabra: '" + words[i] + "' está repetida: " + count + " veces.");
             }
         }
         if(repeatedWords.isEmpty()) System.out.println("No hubo palabras repetidas en el texto dado.");
