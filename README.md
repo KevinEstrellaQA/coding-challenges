@@ -36,6 +36,9 @@ Crear una función que sea capaz de invertir una cadena sin utilizar funciones p
 ### [8. Contando palabras](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge8.java)
 Crea un programa que cuente cuantas veces se repite cada palabra y que muestre el recuento final de todas ellas.
 
+### [9. Decimal a Binario](https://github.com/KevinEstrellaQA/coding-challenges/blob/master/src/Challenge9.java)
+Crea un programa que reciba un número entero y regrese el binario de dicho número.
+
 ---
 
 ## 📌 Fuente de ejercicios:
